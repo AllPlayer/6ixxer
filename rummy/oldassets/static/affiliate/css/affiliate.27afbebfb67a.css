@@ -1,0 +1,387 @@
+/******* affiliate-header *******/
+a{
+  color: #000;
+  text-decoration: none;
+}
+a:hover, a:active{
+  color: #000;
+  text-decoration: none;
+}
+.joinvcom{
+ width: 19%;
+ font-size: 36px;
+    padding: 0px;
+    border-radius: 8px;
+     font-weight: 700;
+font-family: 'Oswald', sans-serif;
+}
+#aff-header .joinvcom1{
+font-size: 36px;
+    width: 30%;
+    border-radius: 8px;
+     font-weight: 700;
+font-family: 'Oswald', sans-serif;
+
+padding: 0px !important
+    }
+#aff-header{
+  background: url("../images/header-bg.fb16926edd85.png");
+   background-size: cover;
+    background-repeat: round;
+    padding: 30px 0px;
+    position: relative;
+}
+#aff-header h1{
+  color: #fff;
+  text-transform: uppercase;
+   font-weight: 700;
+font-family: 'Oswald', sans-serif;
+font-size: 52px;
+margin-top: 30px;
+}
+#aff-header h2{
+  color: #fff;
+  text-transform: uppercase;
+   font-weight: bold;
+font-family: 'Oswald', sans-serif;
+}
+#aff-header p{
+  color: #fff000;
+  font-size: 26px;
+  float: left;
+/*  font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans ', sans-serif;*/
+font-family: 'Oswald', sans-serif;
+padding-left: 18px;
+font-weight: 250;
+}
+#aff-header .campafff{
+  margin-top: 70px !important;
+}
+#aff-header ul{
+  border: 1px solid #8d95bb !important;
+  border-radius: 8px;
+}
+#aff-header span.amt{
+  color: #f7d422;
+  font-size: 24px;
+      font-weight: 700;
+    font-family: 'Oswald', sans-serif;
+  word-spacing: 5px;
+    letter-spacing: 2px;
+}
+#aff-header span.camp{
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 250;
+    word-spacing: 4px;
+    letter-spacing: 1.5px;
+}
+.sticky-top a.joinnow{
+  color: #fff;
+    border: 2px solid #f7d422;
+    border-radius: 8px;
+}
+.sticky-top{
+  position: fixed !important;
+  width: 100% !important;
+  background-color: none !important;
+}
+.active{
+  background-color: #0d143a;
+}
+#aff-header .vcom{
+  width: 150px;position: absolute;right: 23px;
+}
+#aff-header .affv{
+  background-color: #0d143a;
+}
+/********* 6 live ********/
+.chrummy-villa{
+  background-color: #e6e7e8;
+      padding:30px 0px;
+}
+.chrummy-villa1{
+  background-color: #ffffff;
+}
+.chrummy-villa1 h3{
+  background-image: linear-gradient(to right, #ffffff, #f1f1f4, #9d9db2, #030932, #030932, #030932, #030932, #030932, #030932, #9d9db2, #f1f1f4, #ffffff);
+  color: #f6d213;
+  padding: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans ', sans-serif;
+}
+.chrummy-villa1 button{
+  font: -apple-system-body;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans ', sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+}
+.chrummy-villa1 .ch-rv{
+  background-color: #f0f1f2;
+  margin-left: 15%;
+    margin-right: 15%;
+    min-height: 240px;
+    border-radius: 15px;
+        -webkit-box-shadow: 0px 10px 26px -9px rgb(207, 207, 207);
+    -moz-box-shadow: 0px 10px 26px -9px rgb(207, 207, 207);
+    box-shadow: 0px 10px 26px -9px rgb(207, 207, 207);
+}
+.chrummy-villa1 .ch-rv p{
+  color: #000;
+  font-size: 14px;
+   font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans ', sans-serif;
+font-weight: 400;
+margin-bottom: 5px !important;
+}
+.chrummy-villa1 .mail{
+  color: #ff0000;
+    font-size: 18px;
+}
+.ribbon {
+  height: 188px;
+  position: relative;
+  margin-bottom: 30px;
+  background-size: cover;
+  text-transform: uppercase;
+  color: white;
+}
+
+.ribbon5 {
+  display: block;
+  width: calc(100% + 20px);
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  margin-left: -10px;
+  margin-right: -10px;
+  background: #1e2f80;
+  position: relative;
+  top: 20px;
+  font-size: 25px;
+  color: #ffea00;
+   font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans ', sans-serif;
+}
+.ribbon5:before, .ribbon5:after {
+  content: "";
+  position: absolute;
+}
+.ribbon5:before {
+  height: 0;
+  width: 0;
+  bottom: -10px;
+  left: 0;
+  border-top: 10px solid #1e2f80;
+  border-left: 10px solid transparent;
+}
+.ribbon5:after {
+  height: 0;
+  width: 0;
+  right: 0;
+  bottom: -10px;
+  border-top: 10px solid #1e2f80;
+  border-right: 10px solid transparent;
+}
+
+/****** choose rummyvilla ******/
+.chrummyvilla{
+  background: url("../images/ch-bg.faa37786839e.png");
+   background-size: cover;
+    background-repeat: round;
+    padding: 30px 0px;
+    padding-bottom: 20px;
+    position: relative;
+}
+.chrummyvilla h3{
+  background-image: linear-gradient(to right, #ededed, #afb7c1, #818c9e, #030932, #030932, #030932, #030932, #030932, #030932, #818c9e, #afb7c1, #dfdfe0);
+  color: #f6d213;
+  padding: 10px;
+  text-transform: uppercase;
+     font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans ', sans-serif;
+font-weight: bold;
+}
+.chrummyvilla h5{
+     font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans ', sans-serif;
+font-weight: bold;
+}
+.chrummyvilla p{
+     font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans ', sans-serif;
+font-weight: 400;
+
+}
+
+/******** start promoting session ********/
+.stapromt{
+  background: url("../images/ft-start-bg.f8835fcf7a2c.png");
+  /*background-color: #030932;*/
+    background-size: cover;
+    background-repeat: round;
+    padding: 30px 0px;
+    padding-bottom: 20px;
+    position: relative;
+}
+.stapromt1{
+    /*background: url("/static_files/affiliate/images/ft-start-bg.f8835fcf7a2c.png");*/
+  background-color: #e6e7e8;
+    background-size: cover;
+    background-repeat: round;
+    padding: 30px 0px;
+    padding-bottom: 20px;
+    position: relative;
+}
+/*#stapromt .bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+#stapromt .top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}*/
+.stapromt h3{
+      color: #f6d213;
+      background-image: linear-gradient(to right, #030a33, #03123f, #06184b, #0b1d57, #112364, #112364, #112364, #112364, #0b1d57, #06184b, #03123f, #030a33);
+      padding: 10px;
+      position: relative;
+      top: -30px;
+           font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans ', sans-serif;
+font-weight: bold;
+}
+.stapromt span img.arrow{
+    position: relative;
+    top: -215px;
+    right: -45px;
+}
+.stapromt .str1heig{
+  min-height: 265px;
+  margin-top: 40px;
+}
+.stapromt h5{
+  color: #fff;
+}
+.stapromt p{
+  color: #fff;
+  font-size: 14px;
+         font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans ', sans-serif;
+}
+/******** Join button session *******/
+#strip{
+  background-color: #e6e7e8;
+  padding: 25px 0px;
+}
+#strip h3{
+
+}
+#strip button{
+font-size: 36px;
+    /* padding: 8px 30px; */
+    border-radius: 8px;
+    font-weight: 700;
+    width: 20% !important;
+    font-family: 'Oswald', sans-serif;
+    padding: 0px !important;
+}
+/******* footer start here ********/
+#foot-big{
+      background: url("../images/footer-bg.b3190f5e4a1d.png");
+    background-size: cover;
+    background-repeat: round;
+    padding: 30px 0px;
+    padding-bottom: 20px;
+}
+#foot-big p{
+      margin-bottom: 0px;
+    font-size: 12px;
+    padding: 7px;
+    color: #fff;
+}
+#foot-big .certificate a{
+  color: #fff !important;
+}
+.scroll-rummyvilla{
+  cursor: pointer;
+}
+.slick-next{
+  right: 5px !important;
+  z-index: 1;
+      width: 30px;
+    height: 30px;
+}
+.slick-prev {
+    left: 5px !important;
+    z-index: 1;
+        width: 30px;
+    height: 30px;
+}
+a.btn-primary{
+  font-weight: 800 !important;
+}
+#aff-header ul.nav-rv{
+	margin-bottom: 0px;
+    border: 0px solid #000 !important;
+    display: inline-block;
+    /* margin-top: 33px; */
+    /* display: inline-block; */
+    /* padding-top: 18px; */
+    /* position: relative; */
+    /* top: 10px; */
+    /* padding-left: 0px; */
+    height: 100%;
+    vertical-align: middle;
+    padding-top: 16px;
+	padding-left: 5px;
+	text-align: center !important;
+}
+.nav-rv li{
+	float: left;
+    list-style: none;
+    padding: 0px 4px;
+    position: relative;
+	text-align: center !important;
+}
+
+.nav-rv li a{
+	color: #fff;
+	font-size: 22px;
+	font-family: 'Oswald', sans-serif;
+  /*font-weight: 100;*/
+}
+
+.nav-rv li a:hover{
+	color: #fff000;
+}
+
+
+#aff-header .navbar-brand{
+	width: auto !important;
+}
+
+/*
+#start{
+	padding-top: 100px;
+}
+#why{
+	padding-top: 70px;
+}
+#offers{
+	padding-top: 53px;
+}
+*/
+
+
+
+
+

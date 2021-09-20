@@ -1,0 +1,607 @@
+@charset "utf-8";
+/* CSS Document */
+/*13th march 2019*/
+/*15th may 2019*/
+/*25th june*/
+/*28th june*/
+
+@media (max-width: 1200px){
+    .swap-height.d-lg-block{
+        min-height: 80px;
+    }
+	.navbar-brand {
+   width: 75%;
+    float: left;
+    padding-bottom: 14px;
+    text-align: left;
+    padding: 0.5rem;
+    margin-left: 0px;
+}
+.offer{
+	padding-left:13px;
+}
+.chip-b {
+   font-size:11px !important;	
+	
+}
+	
+	.amount .nav-item {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-right: 5px;
+    /* width: 89px !important; */
+    width: 76px !important;
+    font-size: 14px;
+    line-height: 24px;
+}
+}
+
+
+
+
+@media(max-width: 992px){
+    ol, ul, dl{
+        margin-left: -10px;
+    }
+    .user-strip > .col-md-4 {
+    display: none;
+}
+	
+	.navbar-brand {
+   width: 87%;
+   
+    padding-bottom: 14px;
+    text-align: center;
+    padding: 0.5rem;
+    margin-left: 45px;
+		padding-top: 0px;
+		margin-top: -12px;
+}
+	.btn-yell2 {	
+	margin-top: 0px;
+}
+.offer{
+	padding-left: 65px;
+}	
+
+.bg-herrer {
+		min-height: 80px !important;
+}
+.after-login .navbar-brand {
+	display: none;
+		
+	}	
+	
+.amount .nav-item {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-right: 5px;
+    /* width: 89px !important; */
+    width: 130px !important;
+    font-size: 14px;
+    line-height: 24px;
+
+	}
+}
+
+
+@media (max-width : 575px) {
+	
+	.brt{
+	/* margin-left: 6px; */
+    width: 111px;
+    position: absolute;
+    right: 0px;
+	}
+	.amount .nav-item {
+   padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-right: 5px;
+    /* width: 89px !important; */
+    width: 95px !important;
+    font-size: 14px;
+    line-height: 24px;
+
+	}
+	
+}
+
+
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 421px) and (max-width : 480px) {
+
+.navbar-toggler {
+    margin-top: 32px;
+    float: left;
+    padding: 0px;
+	margin-right: 20px;
+    margin-left: 20px;
+}
+.navbar-brand {
+  width: 80%;
+    float: left;
+    padding-bottom: 14px;
+    text-align: center;
+    padding: 0.5rem;
+    margin-left: 17%;
+    margin-right: 0px;
+}
+#fetures .feature {
+    border-right: 0px solid #d9d9d9;
+}
+	
+#slider{
+		/*max-height: 375px;*/
+	}
+	
+#btn {
+    position: absolute;
+    z-index: 5;
+    top: 29px;
+    left: 15px;
+    cursor: pointer;
+    transition: left 500ms cubic-bezier(0.6, 0.05, 0.28, 0.91);
+}	
+.btn-yell2 {	
+	margin-top: 0px;
+}
+/*.mobi-ln a{
+	float: left;
+    width: 50%;
+	}*/
+	
+.offer {
+    padding-left:18px;
+}	
+	.code-2 {
+   width: 80px;
+    height: 80px;
+    float: left;
+    background: #055427;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+.code-2 h4 {
+      font-weight: bold;
+    background: -webkit-linear-gradient(#fff, #ccc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 81px;
+    font-size: 28px;
+}
+.code-text h5 a {
+    font-size: 16px;
+    font-weight: 600;
+}
+.code-text p {
+    font-size: 13px;
+    color: #000;
+    margin-bottom: 0px;
+}
+	
+	.strip-hot {
+    /*background: #FF0004;*/
+    color: #fff;
+    /*transform: rotate(45deg);*/
+    /*-webkit-transform: rotate(45deg);*/
+    position: relative;
+    top: -85px;
+    /* left: 0; */
+    right: -28px;
+    /* height: 25px; */
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+}
+.user-strip > .col-md-4{
+		display: none;
+}
+.dfg .andriod-apk-small{
+    width: 50%;
+        position: relative;
+    left: 14px;
+}
+.dfg .apk-text{
+
+}
+.dfg{
+		bottom: 4px;
+    right: 5px;
+	}	
+.dfg a{
+	font-size: 10px;
+	}
+	.brt{
+		    /* margin-left: 6px; */
+    width: 111px;
+    position: absolute;
+    right: 0px;
+	}
+#footer{
+		margin-bottom: 89px;
+	}	
+	
+	
+.abt .MultiCarousel .MultiCarousel-inner .coupon {
+    color: #fff;
+    cursor: pointer;
+    margin: 0px;
+    padding: 15px;
+}	
+	.amount .nav-item {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-right: 5px;
+    /* width: 89px !important; */
+     width: 85px !important;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 5px;
+}
+}
+
+
+
+@media (max-width : 430px) {
+.amount .nav-item {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-right: 5px;
+    /* width: 89px !important; */
+     width: 81px !important;
+    font-size: 14px !important;
+    line-height: 24px;
+    padding: 5px;
+}
+}
+
+@media only screen and (max-width : 320px) {
+.navbar-toggler {
+    margin-top: 32px;
+    float: left;
+    padding: 0px;
+	margin-right: 20px;
+    margin-left: 20px;
+}
+.navbar-brand {
+   width: 75%;
+    float: left;
+    padding-bottom: 14px;
+    text-align: center;
+    padding: 0.5rem;
+    margin-left: 13%;
+}
+#fetures .feature {
+    border-right: 0px solid #d9d9d9;
+}
+	
+#slider{
+		/*max-height: 375px;*/
+	}
+.btn-yell2 {	
+	margin-top: 0px;
+}
+.mobi-ln a{
+	float: left;
+    width: 50%;
+	}	
+	
+.offer {
+    padding-left: 18px;
+}
+.code-2 {
+    width: 60px;
+    height: 60px;
+    float: left;
+    background: #055427;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 5px;
+}	
+.code-2 h4 {
+    font-weight: bold;
+    background: -webkit-linear-gradient(#fff, #ccc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 65px;
+    font-size: 21px;
+}
+.code-text h5 a {
+    font-size: 16px;
+    font-weight: 600;
+}
+.code-text p {
+    font-size: 13px;
+    color: #000;
+    margin-bottom: 0px;
+}	
+	.dfg{
+	bottom: 4px;
+    right: 5px;
+	}
+	
+	.dfg a{
+	font-size: 12px;
+	}
+	
+	.brt{
+		    /* margin-left: 6px; */
+    width: 111px;
+    position: absolute;
+    right: 0px;
+	}
+	
+	#footer{
+		margin-bottom: 89px;
+	}
+	.strip-hot {
+    background: #FF0004;
+    color: #fff;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    position: relative;
+    top: -85px;
+    /* left: 0; */
+    right: -28px;
+    /* height: 25px; */
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+}
+.abt .MultiCarousel .MultiCarousel-inner .coupon {
+    color: #fff;
+    cursor: pointer;
+    margin: 0px;
+    padding: 15px;
+}	
+	
+	
+.amount .nav-item {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-right: 5px;
+    /* width: 89px !important; */
+     width: 85px !important;
+    font-size: 11px;
+    line-height: 24px;
+    padding: 5px;
+}	
+	
+	
+	}
+@media only screen and (min-width : 481px) and (max-width : 766px) {
+    .dfg {
+        bottom: 4px;
+        right: 20px;
+    }
+    .dfg .andriod-apk-small {
+        width: 50%;
+        position: relative;
+        left: 14px;
+    }
+    .dfg a {
+        font-size: 10px;
+    }
+}
+@media only screen and (min-width : 767px) and (max-width : 991px) {
+    .dfg {
+        bottom: 20px;
+    right: 60px;
+    }
+    .dfg .andriod-apk-small {
+        width: 50%;
+        position: relative;
+        left: 14px;
+    }
+    
+}
+@media only screen and (min-width : 992px) and (max-width : 1199px) {
+    .dfg {
+        bottom: 12px;
+    right: 60px;
+    }
+    .dfg .andriod-apk-small {
+        
+        position: relative;
+        left: 14px;
+    }
+    
+}
+@media only screen and (min-width : 320px) and (max-width : 360px) {
+        .quick ul li a{
+        font-size: 11px !important;
+    }
+}
+
+@media only screen and (min-width : 361px) and (max-width : 420px) {
+    .quick ul li a{
+        font-size: 13px !important;
+    }
+    }
+
+@media only screen and (min-width : 320px) and (max-width : 420px) {
+    .profile h4 a{
+            margin-top: 10px;
+    margin-bottom: 20px;
+    }
+    .coupon-f .slickss .amount{
+        font-size: 14px;
+    }
+    .disconnect-google{
+        top: -40px;
+    }
+    .promo-block{
+        margin-top: 25px;
+    }
+    .navbar-brand{
+        width: 75%;
+        margin-top: -2px;
+        margin-left: 60px;
+    }
+    .dfg {
+        bottom: -2px !important;
+        right: 7px !important;
+    }
+    .dfg .andriod-apk-small {
+        width: 50%;
+        position: relative;
+        left: 25px;
+    }
+    .dfg a {
+        font-size: 10px;
+        line-height: 0.5 !important;
+    }
+/*    .lobby-add .lobby-img{
+        width: 125px !important;
+    }*/
+    .offer{
+        padding-left: 13px; 
+    }
+    .code-text p{
+    font-size: 13px;
+    color: #000;
+    margin-bottom: 0px;
+    
+}
+    
+}
+
+@media only screen and (min-width : 320px) and (max-width : 374px)  {
+    .amount .nav-item {
+       padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-right: 3px;
+    /* width: 89px !important; */
+    width: 67px !important;
+    font-size: 13px !important;
+    line-height: 22px;
+}
+}
+
+@media only screen and (min-width : 375px) and (max-width : 420px)  {
+    .amount .nav-item {
+padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+    margin-right: 3px;
+    /* width: 89px !important; */
+    width: 80px !important;
+    font-size: 13px !important;
+    line-height: 22px;
+    }
+}
+
+@media(max-width: 776px){
+    .footlogo{
+        text-align: center !important;
+    }
+}
+
+@media (min-width: 992px){
+    .swap-height.d-lg-block{
+        min-height: 70px;
+    }
+}
+@media (min-width: 1200px){
+    .swap-height.d-lg-block{
+        min-height: 80px !important;
+    }
+}
+@media (min-width: 576px){
+    .swap-height.d-sm-block{
+        min-height: 90px;
+    }
+    .swap-height.d-xs-block{
+        min-height: 90px;
+    }
+}
+@media only screen and (min-width : 320px) and (max-width : 420px){
+    .swap-height.d-sm-block{
+        min-height: 68px;
+    }
+    .swap-height.d-xs-block{
+        min-height: 68px;
+    }
+}
+@media only screen and (min-width : 420px) and (max-width : 480px){
+    .swap-height.d-sm-block{
+        min-height: 75px;
+    }
+    .swap-height.d-xs-block{
+        min-height: 75px;
+    }
+}
+@media only screen and (min-width : 481px) and (max-width : 575px){
+    .swap-height.d-sm-block{
+        min-height: 85px;
+    }
+    .swap-height.d-xs-block{
+        min-height: 85px;
+    }
+}
+
+/*withdraw and paymnet success*/
+@media only screen and (min-width : 992px) {
+    .promo-block .dep-succ-page{
+    width: 60%;
+    margin: auto;
+}
+}
+@media only screen and (max-width : 992px) {
+    .promo-block .dep-succ-page{
+    width: 95%;
+    margin: auto;
+}
+.btn-success{
+    font-size: 18px !important;
+}
+.btn-success:hover, .btn-success:active{
+    font-size: 18px !important;
+}
+.btn-warning{
+    font-size: 18px !important;
+}
+.btn-warning:hover, .btn-warning:active{
+    font-size: 18px !important;
+}
+}
+
+@media only screen and (min-width : 421px) and (max-width : 480px){
+    .btn-success{
+    font-size: 16px !important;
+}
+.btn-success:hover, .btn-success:active{
+    font-size: 16px !important;
+}
+.btn-warning{
+    font-size: 16px !important;
+}
+.btn-warning:hover, .btn-warning:active{
+    font-size: 16px !important;
+}
+}
+@media only screen and (min-width : 320px) and (max-width : 420px){
+    .btn-success{
+    font-size: 12px !important;
+}
+.btn-success:hover, .btn-success:active{
+    font-size: 12px !important;
+}
+.btn-warning{
+    font-size: 12px !important;
+}
+.btn-warning:hover, .btn-warning:active{
+    font-size: 12px !important;
+}
+}

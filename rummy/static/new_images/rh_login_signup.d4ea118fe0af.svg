@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="303" height="60" viewBox="0 0 303 60">
+  <defs>
+    <filter id="Rectangle_1109" x="0" y="0" width="60" height="60" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_5110" data-name="Group 5110" transform="translate(-24 4)">
+    <g id="Group_5109" data-name="Group 5109">
+      <rect id="Rectangle_1107" data-name="Rectangle 1107" width="300" height="50" rx="4" transform="translate(27)" fill="#cc3510"/>
+      <text id="Login_with_Google" data-name="Login with Google" transform="translate(110 31)" fill="#fff" font-size="18" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Login with Google</tspan></text>
+      <g id="google" transform="translate(33 5)">
+        <g transform="matrix(1, 0, 0, 1, -9, -9)" filter="url(#Rectangle_1109)">
+          <rect id="Rectangle_1109-2" data-name="Rectangle 1109" width="42" height="42" rx="4" transform="translate(9 9)" fill="#f2f2f2"/>
+        </g>
+        <g id="Group_763" data-name="Group 763" transform="translate(9.573 9.333)">
+          <path id="Path_459" data-name="Path 459" d="M1808.543-2699.115l-.79,2.951-2.889.061a11.3,11.3,0,0,1-1.354-5.381,11.3,11.3,0,0,1,1.27-5.222h0l2.572.472,1.127,2.556a6.761,6.761,0,0,0-.364,2.194A6.725,6.725,0,0,0,1808.543-2699.115Z" transform="translate(-1803.51 2712.839)" fill="#faba00"/>
+          <path id="Path_460" data-name="Path 460" d="M1854.506-2695.995a11.357,11.357,0,0,1,.2,2.122,11.379,11.379,0,0,1-.248,2.37,11.353,11.353,0,0,1-4,6.484h0l-3.24-.166-.458-2.862a6.768,6.768,0,0,0,2.912-3.457H1843.6v-4.492h10.906Z" transform="translate(-1831.996 2705.228)" fill="#518df7"/>
+          <path id="Path_461" data-name="Path 461" d="M1825.294-2674h0a11.308,11.308,0,0,1-7.108,2.5,11.353,11.353,0,0,1-10-5.974l3.679-3.012a6.752,6.752,0,0,0,6.322,4.381,6.715,6.715,0,0,0,3.41-.923Z" transform="translate(-1806.832 2694.206)" fill="#28b346"/>
+          <path id="Path_462" data-name="Path 462" d="M1825.229-2725.28l-3.679,3.011a6.714,6.714,0,0,0-3.569-1.02,6.754,6.754,0,0,0-6.385,4.555l-3.7-3.028h0a11.353,11.353,0,0,1,10.085-6.133A11.3,11.3,0,0,1,1825.229-2725.28Z" transform="translate(-1806.626 2727.894)" fill="#f04336"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

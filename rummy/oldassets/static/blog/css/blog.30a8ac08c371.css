@@ -1,0 +1,146 @@
+/*footer css*/
+.footer-bg {
+    background: url("../../../../www.rummyvilla.com/static_files/blog/images/rv-footer-bg.115cd317ba31.html");
+    background-size: cover;
+    padding: 30px 0px;
+    text-align: center;
+}
+.footer-bg .amt{
+	color: #fbd500;
+	    font-size: 25px;
+    font-weight: bold;
+}
+.footer-bg .ply{
+	font-weight: 500;
+    color: #fff;
+    font-size: 20px;
+}
+.footer-bg .bd{
+    border-right: 3px solid #fff;
+}
+/*trending section*/
+#treding-bd{
+	background-color: #000;
+}
+#treding-bd h5{
+	color: #fff;
+}
+#details_trd{
+	padding: 10px 35px;
+	background-color: #f1f1f1;
+}
+#details_trd .card .card-body .card-text{
+	font-weight: bold;
+	font-size: 13px;
+}
+
+/*main*/
+#main-bg{
+	background: url("../../../../www.rummyvilla.com/static_files/blog/images/rv-footer-bg.115cd317ba31.html");
+    background-size: cover;
+    padding: 5px 0px;
+}
+#main-bg h3{
+	color: #ffd600;
+    font-size: 30px;
+    font-weight: bold;
+}
+.left-menu ul{
+	list-style: none;
+}
+.left-menu li{
+	float: left;
+	padding: 0px 20px;
+}
+.content span.post{
+	font-size: 10px;
+	color: #b3b3b1;
+}
+.content p{
+	font-size: 12px;
+}
+.content .card-link{
+	color: #006cff;
+	font-size: 11px;
+	text-decoration: underline;
+}
+.content .card{
+	min-height: 260px;
+	border: none;
+}
+.page-item{
+	margin: 0px 5px !important;
+}
+.page-link{
+	    color: #000 !important;
+    background-color: #dee2e6 !important;
+    border: 1px solid #dee2e6 !important;
+}
+.page-item.active .page-link{
+	    z-index: 1;
+    color: #fff !important;
+    background-color: #0f6800 !important;
+    border-color: #0f6800 !important;
+}
+.btn-blog{
+    background: #0f6800;
+    border: #0f6800;
+    color: #ffde00;
+    font-weight: bold;
+}
+.sub_detailfrom .form-control{
+	color: #6c6c6c !important;
+    background-color: #f1f1f1 !important;
+    border: 1px solid #acacac !important;
+    font-weight: bold;
+}
+#banner_bg{
+	background-color: #f1f1f1;
+}
+.slickss{
+	padding: 0px 15px;
+}
+.content .fa{
+	opacity: 0.7;
+	height:10px;
+}
+.slick-prev, .slick-next{
+	width: 25px !important;
+	height: 30px !important;
+}
+.slick-prev{
+	left: -6px !important;
+}
+@media (max-width: 992px){
+	.footer-bg .bd{
+    border-right: none !important;
+}
+}
+@media (max-width: 767px){
+	.footer-bg hr{
+		border: 1px solid #fff;
+    width: 44%;
+    margin-top: 0px !important;
+	}
+	
+}
+@media only screen and (min-width : 320px) and (max-device-width : 560px) {
+	#footer ul li a{
+		font-size: 10px;
+	}
+	#footer p{
+		font-size: 11px;
+	}
+	#details_trd .card .card-body .card-text{
+		font-size: 11px;
+	}
+	.slick-prev{
+		left: -10px !important;
+	}
+	.slick-next {
+		right: -10px !important;
+	} */
+	#details_trd{
+		padding: 10px !important;
+	}
+	}
